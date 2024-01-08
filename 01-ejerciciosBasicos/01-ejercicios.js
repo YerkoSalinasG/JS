@@ -15,12 +15,7 @@ if(num1 == num2){
 }
 
 // Programa que pida 2 numeros y diga cual es el mayor, cual es el menor y si son iguales
-    var num1 = parseInt(prompt('Ingrese primer numero'));
-    var tnum1 = typeof num1;
-    if(tnum1 =!  'number') { num1 = parseInt(prompt('Ingrese bien el  primer numero'));} 
-    var num2 = parseInt(prompt('Ingrese segundo numero'));
-    // comprobar si son numeros
-    if(num1 )
+
 
 
 
@@ -40,10 +35,10 @@ if(num1 == num2){
 
 
 // introcudir un numero por prompt y tiene q decir si es par o impar, si lo ingresado no es numero vuelva a pedir prompt
-var 
+ 
 
 // Tabla de multiplicar de un numero introducido por pantalla
-var
+
 
 /* crear calculadora, pida dos numeros por prompt y confirme q son numeros
 muestre por consola: sumar, restar, multiplicar y dividir */
